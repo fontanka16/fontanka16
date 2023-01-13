@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Linked Data, Library technology, FOLIO, Search Engines**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fontanka16&show_icons=true" alt="fontanka16" /></p>
 
 <p align="center">
 <a href="https://twitter.com/bibliotekariens" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bibliotekariens" height="30" width="30" /></a>
