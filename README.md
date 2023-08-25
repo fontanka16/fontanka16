@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fontanka16</h1>
-<h3 align="center">Currently in a paid non-compete period and annual leave until September 2023.<br/> Improving Library services with technology since 2005</h3>
+<h3 align="center">Currenly working as a consultant for <a href="https://one-group.se/">One-Group</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fontanka16" alt="fontanka16" /> </p>
 
